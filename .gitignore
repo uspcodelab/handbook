@@ -1,0 +1,9 @@
+# https://github.com/vuejs/vuepress/blob/master/.gitignore
+
+.DS_Store
+node_modules
+*.log
+.temp
+TODOs.md
+packages/@vuepress/shared-utils/lib/
+types
