@@ -13,7 +13,7 @@ Don't forget to add yourself as a contributor to the project README section!
 2. Clone your forked version
 3. Make and commit your awesome contribution change
 4. Push commits to your forked repo
-5. Come back to this repo (the original one)
-6. Create the PR!
+5. Come back to your repo (the forked one)
+6. Open the Pull-Request tab and create the PR!
 
 [1]: https://github.com/uspcodelab/handbook/issues
