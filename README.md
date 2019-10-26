@@ -20,6 +20,8 @@
 
 ## Introduction
 
+The USPCodeLab Handbook is, primarily, a repository of all relevant information about USPCodeLab, an universitary extension which aims to stimulate technological innovation at the University of São Paulo. Here you can find more information about the group, initiatives, projects, internal organization and much more. Although it was created to improve the onboarding experience of new members, the Handbook is open for everyone to read :)
+
 ## Getting Started
 
 ### Prerequisites
