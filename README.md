@@ -75,6 +75,19 @@ Please checkout our [Contributing Guide][7] for more information on how to propo
 
 ## Contributors
 
+<!-- Copied from VuePress' own README.md Contributors section :P -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/ricardokojo"><img src="https://avatars1.githubusercontent.com/u/29009138?s=460&v=4" width="100px;" alt="Ricardo Kojo"/><br /><sub><b>Ricardo Kojo</b></sub></a></td>
+    <td align="center"><a href="https://github.com/jooaodanieel"><img src="https://avatars1.githubusercontent.com/u/12701604?s=460&v=4" width="100px;" alt="João Daniel"/><br /><sub><b>João Daniel</b></sub></a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+
 
 [1]: https://vuepress.vuejs.org/
 [2]: https://vuejs.org/
