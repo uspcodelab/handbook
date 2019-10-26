@@ -69,6 +69,10 @@ If you want to contribute, checkout the following section.
 ![GitHub issues](https://img.shields.io/github/issues/uspcodelab/handbook?style=flat)
 ![GitHub contributors](https://img.shields.io/github/contributors/uspcodelab/handbook?style=flat)
 
+We are open for contributions :)
+
+Please checkout our [Contributing Guide][7] for more information on how to propose improvements. Also, see our [issues board][8] if you're looking for ideas on how to contribute.
+
 ## Contributors
 
 
@@ -78,3 +82,5 @@ If you want to contribute, checkout the following section.
 [4]: https://nodejs.org/en/download/
 [5]: https://docs.docker.com/install/
 [6]: https://docs.docker.com/compose/install/
+[7]: https://github.com/uspcodelab/handbook/blob/master/CONTRIBUTING.md
+[8]: https://github.com/uspcodelab/handbook/issues
