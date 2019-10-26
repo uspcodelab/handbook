@@ -26,19 +26,43 @@ The USPCodeLab Handbook is, primarily, a repository of all relevant information 
 
 ### Prerequisites
 
-### Using npm
+This project was created using [VuePress v1.2][1], which is a static site generator and part of the [VueJS][2] ecossystem. Here is the list of prerequisites:
+
+* **Git** - [Download & Install Git][3]. OSX and Linux machines typically have this already installed;
+* **NodeJS**: [Download & Install Node.js][4] and the npm package manager. Be aware that _VuePress 1.2_ requires `NodeJS >= 8.6`;
+* **Docker** + **Docker Compose** (optional): [Download & Install Docker][5] and [Docker Compose][6] in order to use an alternative way to run this project.
+
+### Installing
+
+Run the following command on your terminal of choice to install the necessary dependencies (you may skip this step if you're using Docker and Docker Compose):
 
 ```shell
+# on the root directory of this project, the same as package.json and package-lock.json
 npm install
+```
+
+### Run using npm
+
+Run the following command on your terminal of choice to run the application. By default, it sets up a server on `localhost:8080`.
+
+```shell
 npm run docs:dev
 ```
 
-### Using Docker and Docker Compose
+### Run using Docker and Docker Compose
+
+Alternatively, we also provide a `Dockerfile` and a `docker-compose.yml`. Run the following commands on your command-line to build an image and setup a container running the application. By default, it binds the container's _port 8080_ to `localhost:8080`.
 
 ```shell
 docker-compose build
 docker-compose up
 ```
+
+### Add new content!
+
+That's it! The application should be up and running 🚀🚀. You can edit the _Markdown_ files inside the `.docs/` directory and see your changes at `localhost:8080`.
+
+If you want to contribute, checkout the following section.
 
 ## Contributing
 
@@ -46,3 +70,11 @@ docker-compose up
 ![GitHub contributors](https://img.shields.io/github/contributors/uspcodelab/handbook?style=flat)
 
 ## Contributors
+
+
+[1]: https://vuepress.vuejs.org/
+[2]: https://vuejs.org/
+[3]: https://git-scm.com/downloads
+[4]: https://nodejs.org/en/download/
+[5]: https://docs.docker.com/install/
+[6]: https://docs.docker.com/compose/install/
