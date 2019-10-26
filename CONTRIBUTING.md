@@ -17,3 +17,16 @@ Don't forget to add yourself as a contributor to the project README section!
 6. Open the Pull-Request tab and create the PR!
 
 [1]: https://github.com/uspcodelab/handbook/issues
+
+## Project Structure
+
+We follow the directory structure recommended [here][2]! Therefore, in order to have your PR approved faster, always double check whether or not your changes respect the directory structure.
+
+- **`docs`**: root directory for this [VuePress][3] project. All files related to USPCodeLab's handbook are present in this directory. In order to add content, change project configurations, update themes, it'll all be done here :)
+  - **`.vuepress`**: directory that stores global configuration, components, static resources, etc.
+    - `.vuepress/config.js`: configuration file. You can see the configuration options [here][4].
+  - `docs/README.md`: content for handbook's index page.
+
+[2]: https://vuepress.vuejs.org/guide/directory-structure.html
+[3]: https://vuepress.vuejs.org
+[4]: https://vuepress.vuejs.org/config/#basic-config
