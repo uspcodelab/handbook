@@ -7,14 +7,14 @@
 </p>
 
 <p align="center">
-    <img alt="Status Custom Badge"src="https://img.shields.io/badge/status-🚀-success"/>
-    <img alt="GitHub package.json dependency version (dev dep on branch)" src="https://img.shields.io/github/package-json/dependency-version/uspcodelab/handbook/dev/vuepress?style=flat"/>
+    <img alt="Status Rocket Custom Badge"src="https://img.shields.io/badge/status-🚀-success"/>
+    <a href="https://vuepress.vuejs.org/"><img alt="GitHub package.json dependency version (dev dep on branch)" src="https://img.shields.io/github/package-json/dependency-version/uspcodelab/handbook/dev/vuepress?style=flat"/></a>
     <img alt="GitHub License" src="https://img.shields.io/github/license/uspcodelab/handbook?style=flat"/>
     <a href="https://github.com/uspcodelab/handbook/blob/master/CONTRIBUTING.md"><img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat"/></a>
 </p>
 
 <p align="center">
-    <img alt="GitHub forks" src="https://img.shields.io/github/forks/uspcodelab/handbook?style=social">
+    <a href="https://github.com/uspcodelab/handbook/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/uspcodelab/handbook?style=social"></a>
     <a href="https://twitter.com/uspcodelab"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/uspcodelab?style=social"></a>
 </p>
 
@@ -66,8 +66,8 @@ If you want to contribute, checkout the following section.
 
 ## Contributing
 
-![GitHub issues](https://img.shields.io/github/issues/uspcodelab/handbook?style=flat)
-![GitHub contributors](https://img.shields.io/github/contributors/uspcodelab/handbook?style=flat)
+[![GitHub issues](https://img.shields.io/github/issues/uspcodelab/handbook?style=flat)][8]
+[![GitHub contributors](https://img.shields.io/github/contributors/uspcodelab/handbook?style=flat)][9]
 
 We are open for contributions :)
 
@@ -84,7 +84,6 @@ Please checkout our [Contributing Guide][7] for more information on how to propo
     <td align="center"><a href="https://github.com/jooaodanieel"><img src="https://avatars1.githubusercontent.com/u/12701604?s=460&v=4" width="100px;" alt="João Daniel"/><br /><sub><b>João Daniel</b></sub></a></td>
   </tr>
 </table>
-
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 
@@ -97,3 +96,4 @@ Please checkout our [Contributing Guide][7] for more information on how to propo
 [6]: https://docs.docker.com/compose/install/
 [7]: https://github.com/uspcodelab/handbook/blob/master/CONTRIBUTING.md
 [8]: https://github.com/uspcodelab/handbook/issues
+[9]: https://github.com/uspcodelab/handbook/graphs/contributors
