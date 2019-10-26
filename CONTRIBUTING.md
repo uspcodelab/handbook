@@ -16,7 +16,14 @@ Don't forget to add yourself as a contributor to the project README section!
 5. Come back to your repo (the forked one)
 6. Open the Pull-Request tab and create the PR!
 
-[1]: https://github.com/uspcodelab/handbook/issues
+Often the original repo (uspcodelab/handbook) is updated and there's the need to update your fork too. In that case, you need to add a new remote to your repo. In your computer, do:
+
+1. Add the original remote `git remote add fork-origin git@github.com:uspcodelab/handbook`
+2. Fetch updates from it `git fetch fork-origin`
+3. Rebase your master `git rebase fork-origin/master master`
+4. Update your remote `git push origin master`
+
+If you already have the original remote added, then just follow steps 2 to 4.
 
 ## Project Structure
 
@@ -27,6 +34,7 @@ We follow the directory structure recommended [here][2]! Therefore, in order to 
     - `.vuepress/config.js`: configuration file. You can see the configuration options [here][4].
   - `docs/README.md`: content for handbook's index page.
 
+[1]: https://github.com/uspcodelab/handbook/issues
 [2]: https://vuepress.vuejs.org/guide/directory-structure.html
 [3]: https://vuepress.vuejs.org
 [4]: https://vuepress.vuejs.org/config/#basic-config
