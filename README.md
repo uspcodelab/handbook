@@ -73,6 +73,9 @@ We are open for contributions :)
 
 Please checkout our [Contributing Guide][7] for more information on how to propose improvements. Also, see our [issues board][8] if you're looking for ideas on how to contribute.
 
+## License
+Please, checkout our [License][10]
+
 ## Contributors
 
 <!-- Copied from VuePress' own README.md Contributors section :P -->
@@ -88,8 +91,7 @@ Please checkout our [Contributing Guide][7] for more information on how to propo
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 
-## License
-Please, checkout our [License][10]
+
 
 [1]: https://vuepress.vuejs.org/
 [2]: https://vuejs.org/
