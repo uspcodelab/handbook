@@ -2,9 +2,11 @@
 
 ## Discord 101
 
-### Formatação de texto
+::: tip
 O Discord é a principal ferramenta de comunicação entre o CodeLab, então se você nunca teve contato com ele ou tem dificuldades com o seu uso, listamos a seguir algumas *features* que podem ser úteis para aprimorar a sua experiência com o Discord!
+:::
 
+### Formatação de texto
 Em relação à edição de texto, é possível adicionar um certo nível de ***açúcar*** à ele, utilizando marcações próximas a Markdown, se você ainda não conhece esse tipo de marcação, listamos a seguir alguns exemplos:
 - <u>sublinhado</u> \_\_sublinhado\_\_
 - ~~riscado~~ \~\~riscado\~\~
@@ -59,8 +61,3 @@ Ao clicar no botão irá aparecer uma tela parecida com a que está abaixo, assi
 ![Emoticons](./assets/emoticon-window.png)
 
 Caso esteja utilizando o Discord pelo celular, basta segurar o dedo na mensagem a qual você quer adicionar as reações de *emoticons*, que irá aparecer uma opção para adionar reação.
-
-
-
-
-
