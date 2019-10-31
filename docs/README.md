@@ -61,3 +61,27 @@ Ao clicar no botão irá aparecer uma tela parecida com a que está abaixo, assi
 ![Emoticons](./assets/emoticon-window.png)
 
 Caso esteja utilizando o Discord pelo celular, basta segurar o dedo na mensagem a qual você quer adicionar as reações de *emoticons*, que irá aparecer uma opção para adionar reação.
+
+
+## Audiovisual
+::: warning
+Esta seção por enquanto só se refere ao serviço de audiovisual do IME-USP
+:::
+Precisou de controle para projetor, cabo VGA para conectar no projetor, adaptadores de vídeo para o palestrante do dev.hire()? Ou então, pediram para você pegar a famosa chave da sala B7 para o dev.check()?
+
+A resposta para essas ou outras perguntas relacionadas ao serviço de audiovisual você encontra nesta seção.
+
+### Visão geral
+O serviço de audiovisual se encontra no 2º andar do bloco B do IME, sendo responsáveis pelos cuidados de equipamentos de video/audio do IME, além de, terem o controle da sala B7. Há três pessoas simpáticas que prestam tal serviço, o Fred, o Sérgio e o Agnaldo.
+
+Sempre que houver algum evento, como o dev.hire() por exemplo, é preciso procura-los para obter o acesso do controle e cabo VGA para o projetor de uma sala qualquer reservada especificamente para um dado evento. Além disto, caso necessário é possível pedir por adaptadores VGA/HDMI para uso durante a reserva da sala.
+
+No caso da sala B7, no início de cada semestre tentamos reserva-la para nosso próprio uso. Assim, como o audivisual detém o controle de acesso à sala, é sempre necessário ir até a sala deles e pedir pela chave. Vale destacar que é sempre necessário ter uma reserva para pegar a B7 sem que haja algum problema.
+
+### Contato
+As vezes pode haver necessidade de fazer alguma reserva especial, como por exemplo para utilizar o tripé de camêra deles que é simplesmente incrível para fazer *lives* ou algum equipamento de maior valor. Para isto, é necessário enviar um e-mail para `audiovisual@ime.usp.br` com antecedência de pelo menos 24h para fazer requisições especificas.
+
+### Observações
+- Sempre tome muito cuidado e seja responsável com os equipamentos emprestados.
+- Não perca a chave da B7 e a mantenha organizada após seu uso.
+- Pode ser que você não encontre ninguém na sala do audivisual durante o horário de almoço, ou então, durante o período de troca de aulas.
