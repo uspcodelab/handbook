@@ -1,7 +1,6 @@
 # Hello VuePress (Pão)
 
 ## Discord 101
-
 ::: tip
 O Discord é a principal ferramenta de comunicação entre o CodeLab, então se você nunca teve contato com ele ou tem dificuldades com o seu uso, listamos a seguir algumas *features* que podem ser úteis para aprimorar a sua experiência com o Discord!
 :::
@@ -67,9 +66,11 @@ Caso esteja utilizando o Discord pelo celular, basta segurar o dedo na mensagem 
 ::: warning
 Esta seção por enquanto só se refere ao serviço de audiovisual do IME-USP
 :::
+::: tip
 Precisou de controle para projetor, cabo VGA para conectar no projetor, adaptadores de vídeo para o palestrante do dev.hire()? Ou então, pediram para você pegar a famosa chave da sala B7 para o dev.check()?
 
-A resposta para essas ou outras perguntas relacionadas ao serviço de audiovisual você encontra nesta seção.
+A resposta para essas e outras perguntas relacionadas ao serviço de audiovisual você encontra nesta seção.
+:::
 
 ### Visão geral
 O serviço de audiovisual se encontra no 2º andar do bloco B do IME, sendo responsáveis pelos cuidados de equipamentos de video/audio do IME, além de, terem o controle da sala B7. Há três pessoas simpáticas que prestam tal serviço, o Fred, o Sérgio e o Agnaldo.
@@ -85,3 +86,23 @@ As vezes pode haver necessidade de fazer alguma reserva especial, como por exemp
 - Sempre tome muito cuidado e seja responsável com os equipamentos emprestados.
 - Não perca a chave da B7 e a mantenha organizada após seu uso.
 - Pode ser que você não encontre ninguém na sala do audivisual durante o horário de almoço, ou então, durante o período de troca de aulas.
+
+
+## Acrônimos (aka siglas)
+::: tip
+CLI? CLASS? CLAP? CLUB? LUH? Mas que p#$!@ é essa?!<br/>
+
+![Gif John Travolta](./assets/john-travolta-confused.gif)<br/>
+
+Talvez você já deva ter se deparado com alguma sigla misteriosa presente em qualquer lugar que seja, nesta seção tentamos dar uma luz quanto ao significado de cada acrônimo utilizado pelo CodeLab. A seguir listamos as principais e um breve resumo de cada uma.
+:::
+
+- **CLI** (*CodeLab Iniative*): se trata de uma iniciativa em espalhar a "palavra" CodeLab por outras unidades da USP e quem sabe outras universidades. Além de, principalmente, promover a união entre o grupo como um todo.
+- **LUH** (Liga Universitária de Hackathon): se trata do englobamento dos Hackathons, Hackdays, Hackfests organizados pelo nosso grupo.
+- **CLASS** (*CodeLab Association*): se trata de uma associação sem fins lucrativos que estamos ~~tentando~~ criar para o grupo, o que facilitará muitos processos burocráticos do grupo, principalmente, do que se trata a patrocínios, pois passaremos a ter um CNPJ.
+- **CLUB** (*CodeLab University Bureau*): se trata de um plano para encontrarmos uma sala fixa, para concentramos nossas atividades em um único local em cada unidade.
+- **CLAP** (*CodeLab Acess Point*): é um roteador presente no CodeLab Butantã, já configurado com conexão pela Rede IME, as credenciais usuais seguem abaixo (pode ser alterado entrando em contato com a seção de SI do IME):
+```
+Nome: USPCodeLab
+Senha: #InternetEhDiferenteDeWeb
+```
