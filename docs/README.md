@@ -46,7 +46,7 @@ during: data específica (mensagens durante uma data)
 after: data específica (mensagens após uma data)
 ```
 
-### Padrões usados para votações
+### Votação
 Essa parte é mais uma questão de padrão utilizado pelo grupo do que algo relacionado com a ferramenta em si.
 
 Sendo nosso grupo democrático, em diversos momentos nos encontramos em uma situação que é necessário realizar uma votação para decidir algo. Para isto, utilizamos reações com *emoticons* do próprio Discord que variam de acordo com a necessidade de uma votação com duas ou mais opções. Na imagem abaixo temos um possível padrão para realizar uma votação em nosso Discord.

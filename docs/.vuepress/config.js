@@ -6,6 +6,7 @@ module.exports = {
     sidebar: [
       '/',
     ],
+    sidebarDepth: 3,
     smoothScroll: true
   }
 };
