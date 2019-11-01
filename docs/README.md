@@ -1,4 +1,4 @@
-# Hello VuePress (Pão)
+# Hello World - USPCodeLab (Pão)
 
 ## Discord 101
 ::: tip
