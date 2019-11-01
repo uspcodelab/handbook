@@ -93,8 +93,9 @@ As vezes pode haver necessidade de fazer alguma reserva especial, como por exemp
 CLI? CLASS? CLAP? CLUB? LUH? Mas que p#$!@ é essa?!<br/>
 
 ![Gif John Travolta](./assets/john-travolta-confused.gif)<br/>
-:::
+
 Talvez você já deva ter se deparado com alguma sigla misteriosa presente em qualquer lugar que seja, nesta seção tentamos dar uma luz quanto ao significado de cada acrônimo utilizado pelo CodeLab. A seguir listamos as principais e um breve resumo de cada uma.
+:::
 
 - **CLI** (*CodeLab Iniative*): se trata de uma iniciativa em espalhar a "palavra" CodeLab por outras unidades da USP e quem sabe outras universidades. Além de, principalmente, promover a união entre o grupo como um todo.
 - **LUH** (Liga Universitária de Hackathon): se trata do englobamento dos Hackathons, Hackdays, Hackfests organizados pelo nosso grupo.
