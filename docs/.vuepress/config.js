@@ -1,5 +1,12 @@
 module.exports = {
   title: "USPCodeLab Handbook",
   description:
-    "Bem vindo ao Handbook do USPCodeLab! Aqui você pode saber mais sobre este grupo de extensão inter-campi, o que fazemos e como nos organizamos :)"
+    "Bem vindo ao Handbook do USPCodeLab! Aqui você pode saber mais sobre este grupo de extensão inter-campi, o que fazemos e como nos organizamos :)",
+  themeConfig: {
+    sidebar: [
+      '/',
+    ],
+    sidebarDepth: 3,
+    smoothScroll: true
+  }
 };
