@@ -110,7 +110,7 @@ Senha: #InternetEhDiferenteDeWeb
 ```
 ## CLASS (CodeLab Association)
  A Associação CodeLab é uma idéia para que o grupo consiga receber patrocínios sem depender de outras instituições, como empresas 
- júnior, já que para receber patrocínios precisamos emitir nofa fiscal, o que só é possível tendo um cnpj e sendo uma empresa ou organização sem fins lucrativos, como associações ou fundações. 
+ júnior, já que para receber patrocínios precisamos emitir nota fiscal, o que só é possível tendo um CNPJ e sendo uma empresa ou organização sem fins lucrativos, como associações ou fundações. 
  Outro fator importante é poderíamos receber doações de grandes empresas que conseguem abaixar sua alíquota da Contribuição Social sobre o Lucro Líquido (CSLL). 
  :::
 
@@ -121,4 +121,3 @@ Senha: #InternetEhDiferenteDeWeb
 
  Ao conversar isto com o Gold, ele sugeriu que fizéssemos uma proposta para o IME: a associação teria uma sede no CCSL no papel, mas não seria uma sala somente nossa. Em troca, o departamento de computação poderia indicar um professor para o conselho consultivo da associação. Em novembro de 2019 tentamos passar isto na reunião do conselho, porém não entrou na pauta.
 
- 
