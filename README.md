@@ -92,6 +92,7 @@ Please, checkout our [License][10]
     <td align="center"><a href="https://github.com/jooaodanieel"><img src="https://avatars1.githubusercontent.com/u/12701604?s=460&v=4" width="100px;" alt="João Daniel"/><br /><sub><b>João Daniel</b></sub></a></td>
     <td align="center"><a href="https://github.com/leandrigues"><img src="https://avatars1.githubusercontent.com/u/39068024?s=460&v=4" width="100px;" alt="Leandro Rodrigues"/><br /><sub><b>Leandro Rodrigues</b></sub></a></td>
     <td align="center"><a href="https://github.com/ygortavela"><img src="https://avatars1.githubusercontent.com/u/39172911?s=460&v=4" width="100px;" alt="Ygor Tavela"/><br /><sub><b>Ygor Tavela</b></sub></a></td>
+    <td align="center"><a href="https://github.com/Fernando-Freire"><img src="https://avatars1.githubusercontent.com/u/18744065?s=460&v=4" width="100px;" alt="Fernando Freire"/><br /><sub><b>Fernando Freire</b></sub></a></td>
   </tr>
 </table>
 <!-- markdownlint-enable -->
