@@ -6,6 +6,8 @@ O Discord é a principal ferramenta de comunicação no CodeLab, então, se voc�
 :::
 
 ### Formatação de texto
+
+
 Em relação à edição de texto, é possível adicionar um certo nível de ***açúcar*** à ele, utilizando marcações próximas a Markdown, se você ainda não conhece esse tipo de marcação, listamos a seguir alguns exemplos:
 - <u>sublinhado</u> \_\_sublinhado\_\_
 - ~~riscado~~ \~\~riscado\~\~
@@ -108,3 +110,45 @@ Talvez você já deva ter se deparado com alguma sigla misteriosa presente em qu
 Nome: USPCodeLab
 Senha: #InternetEhDiferenteDeWeb
 ```
+
+## Iniciativas
+
+Nossa principal atividade é a dev.journey(), um programa educacional
+com 6 iniciativas que visa complementar a formação dos estudantes para
+que eles se tornem engenheiros de software capazes de desenvolverem
+sistemas reais:
+
+
+- **dev.learn**: cursos sobre tecnologia onde os participantes são
+apresentados a ferramentas e técnicas de desenvolvimento tanto
+introdutórias quanto avançadas;
+
+
+- **dev.boost**: grupos de estudos onde os participantes praticam
+desenvolvimento de sistemas em times com projetos de clientes externos
+ou da universidade.
+
+
+- **dev.camp**: escolas de férias onde os participantes trabalham num
+projeto multi-time como o de uma empresa com arquitetura de software
+moderna.
+
+
+- **dev.hack**: hackathons e hackdays onde os participantes são
+desafiados
+a buscar, num tempo limitado, soluções inovadoras para problemas reais
+utilizando tecnologia.
+
+
+- **dev.hire**: assessoria de carreira onde os participantes assistem
+palestras preparatórias e vagas de estágio e emprego oferecidas por
+empresas parceiras.
+
+
+- **dev.research**: divisão de pesquisa onde os participantes da
+graduação são co-orientados por pós-graduandos em ICs e TCCs nas áreas
+de atuação do grupo.
+
+
+
+
