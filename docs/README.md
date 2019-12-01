@@ -163,3 +163,51 @@ de atuação do grupo.
 
  Ao conversar isto com o Gold, ele sugeriu que fizéssemos uma proposta para o IME: a associação teria uma sede no CCSL no papel, mas não seria uma sala somente nossa. Em troca, o departamento de computação poderia indicar um professor para o conselho consultivo da associação. Em novembro de 2019 tentamos passar isto na reunião do conselho, porém não entrou na pauta.
 
+## Burocracias
+
+### IME
+
+- Reserva de Salas: para realizarmos eventos no IME, falamos
+com a secretaria do Depto de Computação (Ana ou Cris) que acessam
+o sistema por nós (a única ressalva é a B07, vide Audiovisual)
+
+
+- Serviços Gerais: questões relacionadas aos serviços gerais
+do IME (limpeza, manutenção e segurança) a responsável é a Francisca
+(Fran), sala B103 << CHECK >>;
+
+
+- Mesas da Matemateca: as mesas para eventos costumam ser
+emprestadas pela Matemateca, cujo coordenador é o prof. Eduardo
+Colli, mas a burocracia é feita através da Fran também;
+
+
+- Audiovisual: materiais de projeção e captação de áudio devem
+ser conversados com o Audiovisual, chefe: Sérgio, equipe: Fred e
+Agnaldo (a solicitação formal deve ser feita via ofício na
+Diretoria, vide assistência acadêmica -- a única ação formal feita
+diretamente com eles é a reserva da sala B07), sala B147 << CHECK >>
+
+
+- Assistências acadêmica e administrativa: questões formais com
+a Diretoria devem ser tratadas inicialmente com a Daniela e com a
+Gislaine, respectivamente acadêmica e adminsitrativa, como reuniões
+com a direção e entregas de ofícios, salas << TODO >>;
+
+
+- Financeiro e contabilidade: questões relacionadas a bolsas e
+movimentações entre entidades/alunos devem ser tratadas com o
+Vilemar do Financeiro e com o Roberto da Contabilidade, salas << TODO >>;
+
+
+- Compras e licitações: alguns casos de finanças serão
+mais específicos de compras e licitações, que devem ser tratados com
+<< TODO >>, sala << TODO >>;
+
+
+- Professores patronos: a maior parte das autorizações devem ser
+solicitadas sob o conhecimento dos nossos professores patronos, que
+são nossos coordenadores para todos os fins, prof. Alfredo Goldman,
+sala C215 << CHECK >>, e prof.ª Kelly Rosa, sala C217 << CHECK >> --
+vale ressaltar que para algumas finalidades, o prof. Fábio Kon é
+também bastante próximo ao grupo;
