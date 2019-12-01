@@ -1,22 +1,26 @@
+<p align="center">
+  <img width="191" alt="Logo USPCodeLab Handbook" src="logo.png"/>
+</p>
+
+<p align="center">
+  <img alt="UCL Butantã Custom Badge" src="https://img.shields.io/badge/codelab-butantã-ff690a"/>
+  <img alt="UCL Leste Custom Badge" src="https://img.shields.io/badge/codelab-leste-ff029e"/>
+  <img alt="UCL Sanca Custom Badge" src="https://img.shields.io/badge/codelab-sanca-5ec8ae"/>
+</p>
+
+<p align="center">
+  <img alt="Status Rocket Custom Badge"src="https://img.shields.io/badge/status-🚀-success"/>
+  <a href="https://vuepress.vuejs.org/"><img alt="GitHub package.json dependency version (dev dep on branch)" src="https://img.shields.io/github/package-json/dependency-version/uspcodelab/handbook/dev/vuepress?style=flat"/></a>
+  <img alt="" src="https://img.shields.io/github/license/uspcodelab/handbook?style=flat"/>
+  <a href="https://github.com/uspcodelab/handbook/blob/master/CONTRIBUTING.md"><img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat"/></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/uspcodelab/handbook/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/uspcodelab/handbook?style=social"></a>
+  <a href="https://twitter.com/uspcodelab"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/uspcodelab?style=social"></a>
+</p>
+
 # Handbook
-
-<p align="center">
-    <img alt="UCL Butantã Custom Badge" src="https://img.shields.io/badge/codelab-butantã-ff690a"/>
-    <img alt="UCL Leste Custom Badge" src="https://img.shields.io/badge/codelab-leste-ff029e"/>
-    <img alt="UCL Sanca Custom Badge" src="https://img.shields.io/badge/codelab-sanca-5ec8ae"/>
-</p>
-<p align="center">
-    <img alt="Status Rocket Custom Badge"src="https://img.shields.io/badge/status-🚀-success"/>
-    <a href="https://vuepress.vuejs.org/"><img alt="GitHub package.json dependency version (dev dep on branch)" src="https://img.shields.io/github/package-json/dependency-version/uspcodelab/handbook/dev/vuepress?style=flat"/></a>
-    <img alt="" src="https://img.shields.io/github/license/uspcodelab/handbook?style=flat"/>
-    <a href="https://github.com/uspcodelab/handbook/blob/master/CONTRIBUTING.md"><img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat"/></a>
-</p>
-
-
-<p align="center">
-    <a href="https://github.com/uspcodelab/handbook/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/uspcodelab/handbook?style=social"></a>
-    <a href="https://twitter.com/uspcodelab"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/uspcodelab?style=social"></a>
-</p>
 
 ## Introduction
 
@@ -28,9 +32,9 @@ The **USPCodeLab Handbook** is, primarily, a repository of all relevant informat
 
 This project was created using [VuePress v1.2][1], which is a static site generator and part of the [VueJS][2] ecossystem. Here is the list of prerequisites:
 
-* **Git** - [Download & Install Git][3]. OSX and Linux machines typically have this already installed;
-* **NodeJS**: [Download & Install Node.js][4] and the npm package manager. Be aware that _VuePress 1.2_ requires `NodeJS >= 8.6`;
-* **Docker** + **Docker Compose** (optional): [Download & Install Docker][5] and [Docker Compose][6] in order to use an alternative way to run this project.
+- **Git** - [Download & Install Git][3]. OSX and Linux machines typically have this already installed;
+- **NodeJS**: [Download & Install Node.js][4] and the npm package manager. Be aware that _VuePress 1.2_ requires `NodeJS >= 8.6`;
+- **Docker** + **Docker Compose** (optional): [Download & Install Docker][5] and [Docker Compose][6] in order to use an alternative way to run this project.
 
 ### Installing
 
@@ -74,6 +78,7 @@ We are open for contributions :)
 Please checkout our [Contributing Guide][7] for more information on how to propose improvements. Also, see our [issues board][8] if you're looking for ideas on how to contribute.
 
 ## License
+
 Please, checkout our [License][10]
 
 ## Contributors
@@ -87,12 +92,11 @@ Please, checkout our [License][10]
     <td align="center"><a href="https://github.com/jooaodanieel"><img src="https://avatars1.githubusercontent.com/u/12701604?s=460&v=4" width="100px;" alt="João Daniel"/><br /><sub><b>João Daniel</b></sub></a></td>
     <td align="center"><a href="https://github.com/leandrigues"><img src="https://avatars1.githubusercontent.com/u/39068024?s=460&v=4" width="100px;" alt="Leandro Rodrigues"/><br /><sub><b>Leandro Rodrigues</b></sub></a></td>
     <td align="center"><a href="https://github.com/ygortavela"><img src="https://avatars1.githubusercontent.com/u/39172911?s=460&v=4" width="100px;" alt="Ygor Tavela"/><br /><sub><b>Ygor Tavela</b></sub></a></td>
+    <td align="center"><a href="https://github.com/Fernando-Freire"><img src="https://avatars1.githubusercontent.com/u/18744065?s=460&v=4" width="100px;" alt="Fernando Freire"/><br /><sub><b>Fernando Freire</b></sub></a></td>
   </tr>
 </table>
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
-
-
 
 [1]: https://vuepress.vuejs.org/
 [2]: https://vuejs.org/

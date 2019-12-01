@@ -102,7 +102,7 @@ Talvez você já deva ter se deparado com alguma sigla misteriosa presente em qu
 :::
 
 - **CLI** (*CodeLab Iniative*): se trata de uma iniciativa em espalhar a "palavra" CodeLab por outras unidades da USP e quem sabe outras universidades. Além de, principalmente, promover a união entre o grupo como um todo.
-- **LUH** (Liga Universitária de Hackathon): se trata do englobamento dos Hackathons, Hackdays, Hackfests organizados pelo nosso grupo.
+- **LUH** (Liga Universitária de Hackathon): se trata do englobamento dos Hackathons, Hackdays, Hackfests organizados pelo nosso grupo. https://uclab.xyz/luh
 - **CLASS** (*CodeLab Association*): se trata de uma associação sem fins lucrativos que estamos tentando criar para o grupo, o que facilitará muitos processos burocráticos do grupo, sobretudo, do que se trata a patrocínios, pois passaremos a ter um CNPJ.
 - **CLUB** (*CodeLab University Bureau*): se trata de um plano para encontrarmos uma sala fixa, para concentramos nossas atividades em um único local em cada unidade.
 - **CLAP** (*CodeLab Acess Point*): é um roteador presente no CodeLab Butantã que já se encontra configurado com conexão cabeada da Rede IME. Recomendamos seu uso durante eventos onde há pessoas sem acesso à *Eduroam* ou que haja uma grande quantidade de pessoas. O roteador se encontra em algum armário nosso do CCSL e as credenciais usuais seguem abaixo (pode ser alterado entrando em contato com a seção de SI do IME):
@@ -113,7 +113,7 @@ Senha: #InternetEhDiferenteDeWeb
 
 ## Iniciativas
 
-Nossa principal atividade é a dev.journey(), um programa educacional
+Nossa principal atividade é a dev.journey, um programa educacional
 com 6 iniciativas que visa complementar a formação dos estudantes para
 que eles se tornem engenheiros de software capazes de desenvolverem
 sistemas reais:
@@ -149,6 +149,17 @@ empresas parceiras.
 graduação são co-orientados por pós-graduandos em ICs e TCCs nas áreas
 de atuação do grupo.
 
+## CLASS (CodeLab Association)
+ A Associação CodeLab é uma idéia para que o grupo consiga receber patrocínios sem depender de outras instituições, como empresas 
+ júnior, já que para receber patrocínios precisamos emitir nota fiscal, o que só é possível tendo um CNPJ e sendo uma empresa ou organização sem fins lucrativos, como associações ou fundações. 
+ Outro fator importante é poderíamos receber doações de grandes empresas que conseguem abaixar sua alíquota da Contribuição Social sobre o Lucro Líquido (CSLL). 
 
+ https://uclab.xyz/estatuto
 
+ A associação seria composta pelos seus associados que só podem ser membros de algum dos grupos de extensão CodeLab e que sejam alunos ou ex-alunos de uma universidade. Além disso, ela teria um Conselho Consultivo, formado por professores que quiséssimos convidar, mas que serviria mais para legitimizar a associação, sem poder de realizar ações pelo CodeLab nem nada.
+
+ Nós atualmente, contamos com a firma de advocacia Machado Meyer para fazer o estatuto da Associação, porém o maior entrave atual
+ é que precisamos de um local para sediar a associação. 
+
+ Ao conversar isto com o Gold, ele sugeriu que fizéssemos uma proposta para o IME: a associação teria uma sede no CCSL no papel, mas não seria uma sala somente nossa. Em troca, o departamento de computação poderia indicar um professor para o conselho consultivo da associação. Em novembro de 2019 tentamos passar isto na reunião do conselho, porém não entrou na pauta.
 
