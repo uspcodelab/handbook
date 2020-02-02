@@ -1,4 +1,4 @@
-# Hello World - USPCodeLab (Pão)
+# Hello World - CodeLab (Pão)
 
 ## Discord 101
 ::: tip
@@ -101,7 +101,7 @@ CLI? CLASS? CLAP? CLUB? LUH? Mas que p#$!@ é essa?!<br/>
 Talvez você já deva ter se deparado com alguma sigla misteriosa presente em qualquer lugar que seja, nesta seção tentamos dar uma luz quanto ao significado de cada acrônimo utilizado pelo CodeLab. A seguir listamos as principais e um breve resumo de cada uma.
 :::
 
-- **CLI** (*CodeLab Iniative*): se trata de uma iniciativa em espalhar a "palavra" CodeLab por outras unidades da USP e quem sabe outras universidades. Além de, principalmente, promover a união entre o grupo como um todo.
+- **CLI** (*CodeLab Iniative*): se trata de uma iniciativa em espalhar a "palavra" CodeLab por outras unidades da USP e outras universidades. Além de, principalmente, promover a união entre o grupo como um todo.
 - **LUH** (Liga Universitária de Hackathon): se trata do englobamento dos Hackathons, Hackdays, Hackfests organizados pelo nosso grupo. https://uclab.xyz/luh
 - **CLASS** (*CodeLab Association*): se trata de uma associação sem fins lucrativos que estamos tentando criar para o grupo, o que facilitará muitos processos burocráticos do grupo, sobretudo, do que se trata a patrocínios, pois passaremos a ter um CNPJ.
 - **CLUB** (*CodeLab University Bureau*): se trata de um plano para encontrarmos uma sala fixa, para concentramos nossas atividades em um único local em cada unidade.

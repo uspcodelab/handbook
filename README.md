@@ -24,7 +24,7 @@
 
 ## Introduction
 
-The **USPCodeLab Handbook** is, primarily, a repository of all relevant information about _USPCodeLab_, an universitary extension group which aims to stimulate technological innovation at the _University of São Paulo_. Here you can find more information about the group, initiatives, projects, internal organization and much more. Although it was created to _improve the onboarding experience of new members_, the **Handbook is open for everyone to read :)**
+The **CodeLab Handbook** is, primarily, a repository of all relevant information about _CodeLab_, an universitary extension group which aims to stimulate technological innovation. Here you can find more information about the group, initiatives, projects, internal organization and much more. Although it was created to _improve the onboarding experience of new members_, the **Handbook is open for everyone to read :)**
 
 ## Getting Started
 
